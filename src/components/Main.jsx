@@ -1,16 +1,11 @@
 import React from 'react'
-import foto from '../assets/foto.jpg'
+
 
 const Main = () => {
   return (
-    <div>
+    <div className='main'>
       <div className="row">
-        <div className="col-6">
-          <img src={foto} alt="" />
-        </div>
-        <div className="col-6">
-
-        </div>
+        <h2>Estudiante de la carrera de tecnico universitario en Programacion de la UTN FRT Tucuman. Actualmente manejo lenguajes como C#, Javascript, HTML Y CSS; sumado a conocimientos de herramientas como Bootstrap y comenzando a aprender a codificar con React. Tambien poseo conocimiento intermedio en el manejo de SQL Server Express y un buen manejo de MYSQL Workbench. </h2>
       </div>
     </div>
   )
