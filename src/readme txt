@@ -1,2 +1,5 @@
 ir una careta hacia arriba ../
 dentro de la misma ruta utilizar ./
+props pasan de padre a hijo, no entre hnos
+eventos -> (click, double click, focus, blur, submit, change, onmouse, keypress)
+let valor= event.target.value;
