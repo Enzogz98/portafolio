@@ -1,0 +1,22 @@
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .texto{
+    color: white;
+  }
+  .instagram-button {
+    background-color: #C13584; 
+  }
+  
+  .github-button {
+    background-color: #211F1F; 
+  }
+  .youtube-button {
+    background-color: #FF0000; 
+  }
+  
+  .twitter-button {
+    background-color: #1DA1F2; 
+  }

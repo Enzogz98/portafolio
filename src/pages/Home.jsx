@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Main from '../components/Main'
 import Footer from '../components/Footer'
 
+
 const Home = () => {
   
   // const nombre ="alvaro"
@@ -16,7 +17,7 @@ const Home = () => {
   // }
   return (
 
-    <div> 
+    <div className="container-black"> 
       <Header /*nombre={nombre} titulo="bienvenidos"*/ />
       <Main /*numeros={numeros}*/  />
       <Footer /*saludar ={saludar}*/ />
